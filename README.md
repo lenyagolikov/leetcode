@@ -1,2 +1,2 @@
-# leetcode
-LeetCode solutions
+# LeetCode
+Решаю задачи на LeetCode, учу алгоритмы и структуры данных
