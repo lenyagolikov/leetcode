@@ -1,2 +1,2 @@
 # LeetCode
-Решаю задачи на LeetCode, учу алгоритмы и структуры данных
+https://leetcode.com/lenyagolikov/
