@@ -11,6 +11,8 @@ https://leetcode.com/lenyagolikov/
 * Binary Search: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/binary_search/704.py) | [Link to LeetCode](https://leetcode.com/problems/binary-search/)
 * Find Smallest Letter Greater Than Target: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/binary_search/744.py) | [Link to LeetCode](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
 * Peak Index in a Mountain Array: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/binary_search/852.py) | [Link to LeetCode](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+## [Binary Search Tree](https://github.com/lenyagolikov/leetcode/tree/main/binary_search_tree)
+* Lowest Common Ancestor of a Binary Search Tree: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/binary_search_tree/235.py) | [Link to LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 ## [Binary Tree](https://github.com/lenyagolikov/leetcode/tree/main/binary_tree)
 * Average of Levels in Binary Tree: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/binary_tree/637.py) | [Link to LeetCode](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
 * Diameter of Binary Tree: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/binary_tree/543.py) | [Link to LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/)
