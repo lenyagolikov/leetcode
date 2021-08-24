@@ -21,6 +21,7 @@ https://leetcode.com/lenyagolikov/
 * Minimum Depth of Binary Tree: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/binary_tree/111.py) | [Link to LeetCode](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 * Path Sum: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/binary_tree/112.py) | [Link to LeetCode](https://leetcode.com/problems/path-sum/)
 * Same Tree: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/binary_tree/100.py) | [Link to LeetCode](https://leetcode.com/problems/same-tree/)
+* Subtree of Another Tree: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/binary_tree/572.py) | [Link to LeetCode](https://leetcode.com/problems/subtree-of-another-tree/)
 ## [Dynamic Programming](https://github.com/lenyagolikov/leetcode/tree/main/dynamic_programming)
 * Best Time to Buy and Sell Stock: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/dynamic_programming/121.py) | [Link to LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 * Climbing Stairs: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/dynamic_programming/70.py) | [Link to LeetCode](https://leetcode.com/problems/climbing-stairs/)
