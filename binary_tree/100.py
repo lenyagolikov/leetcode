@@ -8,8 +8,8 @@ class TreeNode:
 
 
 class Solution:
-    def same_tree(self, q: TreeNode, p: TreeNode) -> bool:
-        """Return True if q and p are the same. Otherwise, return False"""
+    def is_same_tree(self, q: TreeNode, p: TreeNode) -> bool:
+        """Return True if q and p are the same. Otherwise, return False. Queue and loop"""
         queue = [q, p]
 
         while queue:
@@ -31,3 +31,18 @@ class Solution:
             queue.append(p.right)
 
         return True
+
+
+class Solution:
+    def is_same_tree(self, q: TreeNode, p: TreeNode) -> bool:
+        """Return True if q and p are the same. Otherwise, return False. Recursion"""
+        if not q and not p:
+            return True
+
+        if not q or not p:
+            return False
+
+        if q.value != p.value:
+            return False
+
+        return self.is_same_tree(q.left, p.left) and self.is_same_tree(q.right, p.right)
