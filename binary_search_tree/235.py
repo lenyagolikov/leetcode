@@ -8,10 +8,8 @@ class TreeNode:
 
 
 class Solution:
-    def lowest_common_ancestor(self, root: TreeNode, p: TreeNode, q: TreeNode) -> TreeNode:
+    def lowest_common_ancestor(self, node: TreeNode, p: TreeNode, q: TreeNode) -> TreeNode:
         """Return LCA of two given nodes in binary search tree"""
-        node = root
-
         while node:
             if p.value > node.value and q.value > node.value:
                 node = node.right
