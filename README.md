@@ -16,6 +16,7 @@ https://leetcode.com/lenyagolikov/
 ## [Binary Tree](https://github.com/lenyagolikov/leetcode/tree/main/binary_tree)
 * Average of Levels in Binary Tree: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/binary_tree/637.py) | [Link to LeetCode](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
 * Diameter of Binary Tree: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/binary_tree/543.py) | [Link to LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/)
+* Invert Binary Tree: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/binary_tree/226.py) | [Link to LeetCode](https://leetcode.com/problems/invert-binary-tree/)
 * Maximum Depth of Binary Tree: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/binary_tree/104.py) | [Link to LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 * Merge Two Binary Trees: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/binary_tree/617.py) | [Link to LeetCode](https://leetcode.com/problems/merge-two-binary-trees/)
 * Minimum Depth of Binary Tree: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/binary_tree/111.py) | [Link to LeetCode](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
