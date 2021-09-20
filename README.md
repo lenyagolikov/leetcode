@@ -7,7 +7,6 @@ https://leetcode.com/lenyagolikov/
 * Missing Number: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/268.py) | [Link to LeetCode](https://leetcode.com/problems/missing-number/)
 * Range Sum Query - Immutable: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/303.py) | [Link to LeetCode](https://leetcode.com/problems/range-sum-query-immutable/)
 * Single Number: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/136.py) | [Link to LeetCode](https://leetcode.com/problems/single-number/)
-* Squares of a Sorted Array: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/977.py) | [Link to LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/)
 * Two Sum: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/1.py) | [Link to LeetCode](https://leetcode.com/problems/two-sum/)
 ## [Binary Search](https://github.com/lenyagolikov/leetcode/tree/main/binary_search)
 * Binary Search: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/binary_search/704.py) | [Link to LeetCode](https://leetcode.com/problems/binary-search/)
@@ -40,3 +39,4 @@ https://leetcode.com/lenyagolikov/
 * Reverse Linked List: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/linked_list/206.py) | [Link to LeetCode](https://leetcode.com/problems/reverse-linked-list/)
 ## [Two Pointers](https://github.com/lenyagolikov/leetcode/tree/main/two_pointers)
 * Backspace String Compare: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/two_pointers/844.py) | [Link to LeetCode](https://leetcode.com/problems/backspace-string-compare/)
+* Squares of a Sorted Array: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/two_pointers/977.py) | [Link to LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/)
