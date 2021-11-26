@@ -3,6 +3,7 @@ https://leetcode.com/lenyagolikov/
 ## [Arrays](https://github.com/lenyagolikov/leetcode/tree/main/arrays)
 * Contains Duplicate: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/217.py) | [Link to LeetCode](https://leetcode.com/problems/contains-duplicate/)
 * Find All Numbers Disappeared in an Array: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/448.py) | [Link to LeetCode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+* Majority Element: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/169.py) | [Link to LeetCode](https://leetcode.com/problems/majority-element/)
 * Meetings Rooms: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/252.py) | [Link to LintCode](https://www.lintcode.com/problem/920/description)
 * Missing Number: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/268.py) | [Link to LeetCode](https://leetcode.com/problems/missing-number/)
 * Range Sum Query - Immutable: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/303.py) | [Link to LeetCode](https://leetcode.com/problems/range-sum-query-immutable/)
