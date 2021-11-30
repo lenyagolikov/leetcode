@@ -38,6 +38,8 @@ https://leetcode.com/lenyagolikov/
 * Remove Linked List Elements: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/linked_list/203.py) | [Link to LeetCode](https://leetcode.com/problems/remove-linked-list-elements/)
 * Remove Duplicates from Sorted List: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/linked_list/83.py) | [Link to LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 * Reverse Linked List: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/linked_list/206.py) | [Link to LeetCode](https://leetcode.com/problems/reverse-linked-list/)
+## [Prefix Sum](https://github.com/lenyagolikov/leetcode/tree/main/prefix_sum)
+* Product of Array Except Self: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/prefix_sum/238.py) | [Link to LeetCode](https://leetcode.com/problems/product-of-array-except-self/)
 ## [Two Pointers](https://github.com/lenyagolikov/leetcode/tree/main/two_pointers)
 * Backspace String Compare: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/two_pointers/844.py) | [Link to LeetCode](https://leetcode.com/problems/backspace-string-compare/)
 * Squares of a Sorted Array: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/two_pointers/977.py) | [Link to LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/)
