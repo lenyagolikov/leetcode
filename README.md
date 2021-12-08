@@ -43,6 +43,7 @@ https://leetcode.com/lenyagolikov/
 * Reverse Linked List: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/linked_list/206.py) | [Link to LeetCode](https://leetcode.com/problems/reverse-linked-list/)
 ## [Matrix](https://github.com/lenyagolikov/leetcode/tree/main/matrix)
 * Set Matrix Zeroes: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/matrix/73.py) | [Link to LeetCode](https://leetcode.com/problems/set-matrix-zeroes/)
+* Spiral Matrix: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/matrix/54.py) | [Link to LeetCode](https://leetcode.com/problems/spiral-matrix/)
 ## [Prefix Sum](https://github.com/lenyagolikov/leetcode/tree/main/prefix_sum)
 * Product of Array Except Self: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/prefix_sum/238.py) | [Link to LeetCode](https://leetcode.com/problems/product-of-array-except-self/)
 ## [Two Pointers](https://github.com/lenyagolikov/leetcode/tree/main/two_pointers)
