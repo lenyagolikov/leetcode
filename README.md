@@ -40,6 +40,7 @@ https://leetcode.com/lenyagolikov/
 * Linked List Cycle II: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/linked_list/142.py) | [Link to LeetCode](https://leetcode.com/problems/linked-list-cycle-ii/)
 * Merge Two Sorted Lists: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/linked_list/21.py) | [Link to LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/)
 * Middle of the Linked List: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/linked_list/876.py) | [Link to LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/)
+* Odd Even Linked List: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/linked_list/328.py) | [Link to LeetCode](https://leetcode.com/problems/odd-even-linked-list/)
 * Palindrome Linked List: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/linked_list/234.py) | [Link to LeetCode](https://leetcode.com/problems/palindrome-linked-list/)
 * Remove Duplicates from Sorted List: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/linked_list/83.py) | [Link to LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 * Remove Linked List Elements: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/linked_list/203.py) | [Link to LeetCode](https://leetcode.com/problems/remove-linked-list-elements/)
