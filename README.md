@@ -34,6 +34,7 @@ https://leetcode.com/lenyagolikov/
 * Counting Bits: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/dynamic_programming/338.py) | [Link to LeetCode](https://leetcode.com/problems/counting-bits/)
 * Maximum Subarray: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/dynamic_programming/53.py) | [Link to LeetCode](https://leetcode.com/problems/maximum-subarray/)
 ## [Linked List](https://github.com/lenyagolikov/leetcode/tree/main/linked_list)
+* Add Two Numbers: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/linked_list/2.py) | [Link to LeetCode](https://leetcode.com/problems/add-two-numbers/)
 * Design Linked List: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/linked_list/707.py) | [Link to LeetCode](https://leetcode.com/problems/design-linked-list/)
 * Intersection of Two Linked Lists: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/linked_list/160.py) | [Link to LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 * Linked List Cycle: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/linked_list/141.py) | [Link to LeetCode](https://leetcode.com/problems/linked-list-cycle/)
