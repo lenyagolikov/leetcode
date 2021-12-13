@@ -35,6 +35,7 @@ https://leetcode.com/lenyagolikov/
 * Maximum Subarray: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/dynamic_programming/53.py) | [Link to LeetCode](https://leetcode.com/problems/maximum-subarray/)
 ## [Linked List](https://github.com/lenyagolikov/leetcode/tree/main/linked_list)
 * Add Two Numbers: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/linked_list/2.py) | [Link to LeetCode](https://leetcode.com/problems/add-two-numbers/)
+* Copy List with Random Pointer: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/linked_list/138.py) | [Link to LeetCode](https://leetcode.com/problems/copy-list-with-random-pointer/)
 * Design Linked List: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/linked_list/707.py) | [Link to LeetCode](https://leetcode.com/problems/design-linked-list/)
 * Flatten a Multilevel Doubly Linked List: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/linked_list/430.py) | [Link to LeetCode](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)
 * Intersection of Two Linked Lists: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/linked_list/160.py) | [Link to LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/)
