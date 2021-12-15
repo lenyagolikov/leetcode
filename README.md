@@ -4,6 +4,7 @@ https://leetcode.com/lenyagolikov/
 * Contains Duplicate: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/217.py) | [Link to LeetCode](https://leetcode.com/problems/contains-duplicate/)
 * Find All Duplicates in an Array: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/442.py) | [Link to LeetCode](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 * Find All Numbers Disappeared in an Array: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/448.py) | [Link to LeetCode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+* Find Numbers with Even Number of Digits: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/1295.py) | [Link to LeetCode](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
 * Majority Element: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/169.py) | [Link to LeetCode](https://leetcode.com/problems/majority-element/)
 * Max Consecutive Ones: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/485.py) | [Link to LeetCode](https://leetcode.com/problems/max-consecutive-ones/)
 * Meetings Rooms: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/252.py) | [Link to LintCode](https://www.lintcode.com/problem/920/description)
