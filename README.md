@@ -2,6 +2,7 @@
 https://leetcode.com/lenyagolikov/
 ## [Arrays](https://github.com/lenyagolikov/leetcode/tree/main/arrays)
 * Contains Duplicate: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/217.py) | [Link to LeetCode](https://leetcode.com/problems/contains-duplicate/)
+* Duplicate Zeros: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/1089.py) | [Link to LeetCode](https://leetcode.com/problems/duplicate-zeros/)
 * Find All Duplicates in an Array: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/442.py) | [Link to LeetCode](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 * Find All Numbers Disappeared in an Array: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/448.py) | [Link to LeetCode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 * Find Numbers with Even Number of Digits: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/1295.py) | [Link to LeetCode](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
