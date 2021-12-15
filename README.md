@@ -5,6 +5,7 @@ https://leetcode.com/lenyagolikov/
 * Find All Duplicates in an Array: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/442.py) | [Link to LeetCode](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 * Find All Numbers Disappeared in an Array: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/448.py) | [Link to LeetCode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 * Majority Element: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/169.py) | [Link to LeetCode](https://leetcode.com/problems/majority-element/)
+* Max Consecutive Ones: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/485.py) | [Link to LeetCode](https://leetcode.com/problems/max-consecutive-ones/)
 * Meetings Rooms: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/252.py) | [Link to LintCode](https://www.lintcode.com/problem/920/description)
 * Missing Number: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/268.py) | [Link to LeetCode](https://leetcode.com/problems/missing-number/)
 * Range Sum Query - Immutable: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/303.py) | [Link to LeetCode](https://leetcode.com/problems/range-sum-query-immutable/)
