@@ -49,6 +49,7 @@ https://leetcode.com/lenyagolikov/
 * Remove Linked List Elements: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/linked_list/203.py) | [Link to LeetCode](https://leetcode.com/problems/remove-linked-list-elements/)
 * Remove Nth Node From End of List: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/linked_list/19.py) | [Link to LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 * Reverse Linked List: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/linked_list/206.py) | [Link to LeetCode](https://leetcode.com/problems/reverse-linked-list/)
+* Rotate List: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/linked_list/61.py) | [Link to LeetCode](https://leetcode.com/problems/rotate-list/)
 ## [Matrix](https://github.com/lenyagolikov/leetcode/tree/main/matrix)
 * Set Matrix Zeroes: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/matrix/73.py) | [Link to LeetCode](https://leetcode.com/problems/set-matrix-zeroes/)
 * Spiral Matrix: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/matrix/54.py) | [Link to LeetCode](https://leetcode.com/problems/spiral-matrix/)
