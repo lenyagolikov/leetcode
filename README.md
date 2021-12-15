@@ -61,4 +61,5 @@ https://leetcode.com/lenyagolikov/
 ## [Two Pointers](https://github.com/lenyagolikov/leetcode/tree/main/two_pointers)
 * Backspace String Compare: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/two_pointers/844.py) | [Link to LeetCode](https://leetcode.com/problems/backspace-string-compare/)
 * Find the Duplicate Number: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/two_pointers/287.py) | [Link to LeetCode](https://leetcode.com/problems/find-the-duplicate-number/)
+* Merge Sorted Array: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/two_pointers/88.py) | [Link to LeetCode](https://leetcode.com/problems/merge-sorted-array/)
 * Squares of a Sorted Array: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/two_pointers/977.py) | [Link to LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/)
