@@ -1,6 +1,7 @@
 # [LeetCode](https://leetcode.com/problemset/all/)
 https://leetcode.com/lenyagolikov/
 ## [Arrays](https://github.com/lenyagolikov/leetcode/tree/main/arrays)
+* Check if N and its Double Exist: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/1346.py) | [Link to LeetCode](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
 * Contains Duplicate: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/217.py) | [Link to LeetCode](https://leetcode.com/problems/contains-duplicate/)
 * Duplicate Zeros: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/1089.py) | [Link to LeetCode](https://leetcode.com/problems/duplicate-zeros/)
 * Find All Duplicates in an Array: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/442.py) | [Link to LeetCode](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
