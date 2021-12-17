@@ -14,6 +14,7 @@ https://leetcode.com/lenyagolikov/
 * Range Sum Query - Immutable: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/303.py) | [Link to LeetCode](https://leetcode.com/problems/range-sum-query-immutable/)
 * Single Number: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/136.py) | [Link to LeetCode](https://leetcode.com/problems/single-number/)
 * Two Sum: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/1.py) | [Link to LeetCode](https://leetcode.com/problems/two-sum/)
+* Valid Mountain Array: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/941.py) | [Link to LeetCode](https://leetcode.com/problems/valid-mountain-array/)
 ## [Backtracking](https://github.com/lenyagolikov/leetcode/tree/main/backtracking)
 * Letter Case Permutation: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/backtracking/784.py) | [Link to LeetCode](https://leetcode.com/problems/letter-case-permutation/)
 ## [Binary Search](https://github.com/lenyagolikov/leetcode/tree/main/binary_search)
