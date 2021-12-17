@@ -63,4 +63,5 @@ https://leetcode.com/lenyagolikov/
 * Find the Duplicate Number: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/two_pointers/287.py) | [Link to LeetCode](https://leetcode.com/problems/find-the-duplicate-number/)
 * Merge Sorted Array: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/two_pointers/88.py) | [Link to LeetCode](https://leetcode.com/problems/merge-sorted-array/)
 * Remove Element: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/two_pointers/27.py) | [Link to LeetCode](https://leetcode.com/problems/remove-element/)
+* Remove Duplicates from Sorted Array: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/two_pointers/26.py) | [Link to LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 * Squares of a Sorted Array: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/two_pointers/977.py) | [Link to LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/)
