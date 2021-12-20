@@ -68,4 +68,5 @@ https://leetcode.com/lenyagolikov/
 * Move Zeroes: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/two_pointers/283.py) | [Link to LeetCode](https://leetcode.com/problems/move-zeroes/)
 * Remove Element: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/two_pointers/27.py) | [Link to LeetCode](https://leetcode.com/problems/remove-element/)
 * Remove Duplicates from Sorted Array: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/two_pointers/26.py) | [Link to LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+* Sort Array By Parity: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/two_pointers/905.py) | [Link to LeetCode](https://leetcode.com/problems/sort-array-by-parity/)
 * Squares of a Sorted Array: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/two_pointers/977.py) | [Link to LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/)
