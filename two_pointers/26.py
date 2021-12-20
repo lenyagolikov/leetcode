@@ -5,6 +5,25 @@ import doctest
 
 def remove_duplicates(nums: list[int]) -> int:
     """
+    Time Complexity: O(n) - 1 pass
+    Space Complexity: O(1)
+    >>> remove_duplicates([1, 1, 2])
+    2
+    >>> remove_duplicates([0, 0, 1, 1, 1, 2, 2, 3, 3, 4])
+    5
+    """
+    write_pointer = 1 if nums else 0
+
+    for read_pointer in range(1, len(nums)):
+        if nums[read_pointer] != nums[read_pointer - 1]:
+            nums[write_pointer] = nums[read_pointer]
+            write_pointer += 1
+
+    return write_pointer
+
+
+def remove_duplicates(nums: list[int]) -> int:
+    """
     Time Complexity: O(n) - 2 passes
     Space Complexity: O(1)
     >>> remove_duplicates([1, 1, 2])
