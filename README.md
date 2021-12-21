@@ -58,6 +58,7 @@ https://leetcode.com/lenyagolikov/
 * Rotate List: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/linked_list/61.py) | [Link to LeetCode](https://leetcode.com/problems/rotate-list/)
 ## [Matrix](https://github.com/lenyagolikov/leetcode/tree/main/matrix)
 * Number of Islands: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/matrix/200.py) | [Link to LeetCode](https://leetcode.com/problems/number-of-islands/)
+* Leftmost Column with at Least a One: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/matrix/leftmost_column_index_of_1.py) | [Link to LeetCode](https://leetcode.com/discuss/interview-question/341247/facebook-leftmost-column-index-of-1)
 * Set Matrix Zeroes: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/matrix/73.py) | [Link to LeetCode](https://leetcode.com/problems/set-matrix-zeroes/)
 * Spiral Matrix: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/matrix/54.py) | [Link to LeetCode](https://leetcode.com/problems/spiral-matrix/)
 ## [Prefix Sum](https://github.com/lenyagolikov/leetcode/tree/main/prefix_sum)
