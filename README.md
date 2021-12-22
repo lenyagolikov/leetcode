@@ -15,6 +15,7 @@ https://leetcode.com/lenyagolikov/
 * Range Sum Query - Immutable: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/303.py) | [Link to LeetCode](https://leetcode.com/problems/range-sum-query-immutable/)
 * Replace Elements with Greatest Element on Right Side: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/1299.py) | [Link to LeetCode](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)
 * Single Number: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/136.py) | [Link to LeetCode](https://leetcode.com/problems/single-number/)
+* Third Maximum Number: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/414.py) | [Link to LeetCode](https://leetcode.com/problems/third-maximum-number/)
 * Two Sum: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/1.py) | [Link to LeetCode](https://leetcode.com/problems/two-sum/)
 * Valid Mountain Array: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/941.py) | [Link to LeetCode](https://leetcode.com/problems/valid-mountain-array/)
 ## [Backtracking](https://github.com/lenyagolikov/leetcode/tree/main/backtracking)
