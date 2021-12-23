@@ -41,6 +41,8 @@ https://leetcode.com/lenyagolikov/
 * Climbing Stairs: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/dynamic_programming/70.py) | [Link to LeetCode](https://leetcode.com/problems/climbing-stairs/)
 * Counting Bits: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/dynamic_programming/338.py) | [Link to LeetCode](https://leetcode.com/problems/counting-bits/)
 * Maximum Subarray: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/dynamic_programming/53.py) | [Link to LeetCode](https://leetcode.com/problems/maximum-subarray/)
+## [Hash Table](https://github.com/lenyagolikov/leetcode/tree/main/hash_table)
+* Group Anagrams: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/hash_table/49.py) | [Link to LeetCode](https://leetcode.com/problems/group-anagrams/)
 ## [Linked List](https://github.com/lenyagolikov/leetcode/tree/main/linked_list)
 * Add Two Numbers: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/linked_list/2.py) | [Link to LeetCode](https://leetcode.com/problems/add-two-numbers/)
 * Copy List with Random Pointer: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/linked_list/138.py) | [Link to LeetCode](https://leetcode.com/problems/copy-list-with-random-pointer/)
