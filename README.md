@@ -8,6 +8,7 @@ https://leetcode.com/lenyagolikov/
 * Find All Numbers Disappeared in an Array: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/448.py) | [Link to LeetCode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 * Find Numbers with Even Number of Digits: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/1295.py) | [Link to LeetCode](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
 * Height Checker: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/1051.py) | [Link to LeetCode](https://leetcode.com/problems/height-checker/)
+* Increasing Triplet Subsequence: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/334.py) | [Link to LeetCode](https://leetcode.com/problems/increasing-triplet-subsequence/)
 * Longest Substring Without Repeating Characters: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/3.py) | [Link to LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 * Majority Element: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/169.py) | [Link to LeetCode](https://leetcode.com/problems/majority-element/)
 * Max Consecutive Ones: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/485.py) | [Link to LeetCode](https://leetcode.com/problems/max-consecutive-ones/)
