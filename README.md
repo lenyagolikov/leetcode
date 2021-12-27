@@ -14,6 +14,7 @@ https://leetcode.com/lenyagolikov/
 * Majority Element: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/169.py) | [Link to LeetCode](https://leetcode.com/problems/majority-element/)
 * Max Consecutive Ones: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/485.py) | [Link to LeetCode](https://leetcode.com/problems/max-consecutive-ones/)
 * Meetings Rooms: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/252.py) | [Link to LintCode](https://www.lintcode.com/problem/920/description)
+* Merge Intervals: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/56.py) | [Link to LeetCode](https://leetcode.com/problems/merge-intervals/)
 * Missing Number: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/268.py) | [Link to LeetCode](https://leetcode.com/problems/missing-number/)
 * Range Sum Query - Immutable: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/303.py) | [Link to LeetCode](https://leetcode.com/problems/range-sum-query-immutable/)
 * Replace Elements with Greatest Element on Right Side: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/1299.py) | [Link to LeetCode](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)
