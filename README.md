@@ -46,6 +46,7 @@ https://leetcode.com/lenyagolikov/
 * Maximum Subarray: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/dynamic_programming/53.py) | [Link to LeetCode](https://leetcode.com/problems/maximum-subarray/)
 ## [Hash Table](https://github.com/lenyagolikov/leetcode/tree/main/hash_table)
 * Group Anagrams: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/hash_table/49.py) | [Link to LeetCode](https://leetcode.com/problems/group-anagrams/)
+* Top K Frequent Elements: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/hash_table/347.py) | [Link to LeetCode](https://leetcode.com/problems/top-k-frequent-elements/)
 ## [Linked List](https://github.com/lenyagolikov/leetcode/tree/main/linked_list)
 * Add Two Numbers: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/linked_list/2.py) | [Link to LeetCode](https://leetcode.com/problems/add-two-numbers/)
 * Copy List with Random Pointer: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/linked_list/138.py) | [Link to LeetCode](https://leetcode.com/problems/copy-list-with-random-pointer/)
