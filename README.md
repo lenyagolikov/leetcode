@@ -78,5 +78,6 @@ https://leetcode.com/lenyagolikov/
 * Remove Element: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/two_pointers/27.py) | [Link to LeetCode](https://leetcode.com/problems/remove-element/)
 * Remove Duplicates from Sorted Array: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/two_pointers/26.py) | [Link to LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 * Sort Array By Parity: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/two_pointers/905.py) | [Link to LeetCode](https://leetcode.com/problems/sort-array-by-parity/)
+* Sort Colors: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/two_pointers/75.py) | [Link to LeetCode](https://leetcode.com/problems/sort-colors/)
 * Squares of a Sorted Array: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/two_pointers/977.py) | [Link to LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/)
 * Three Sum: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/two_pointers/15.py) | [Link to LeetCode](https://leetcode.com/problems/3sum/)
