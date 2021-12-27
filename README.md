@@ -25,6 +25,7 @@ https://leetcode.com/lenyagolikov/
 * Letter Case Permutation: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/backtracking/784.py) | [Link to LeetCode](https://leetcode.com/problems/letter-case-permutation/)
 ## [Binary Search](https://github.com/lenyagolikov/leetcode/tree/main/binary_search)
 * Binary Search: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/binary_search/704.py) | [Link to LeetCode](https://leetcode.com/problems/binary-search/)
+* Find Peak Element: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/binary_search/162.py) | [Link to LeetCode](https://leetcode.com/problems/find-peak-element/)
 * Find Smallest Letter Greater Than Target: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/binary_search/744.py) | [Link to LeetCode](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
 * Peak Index in a Mountain Array: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/binary_search/852.py) | [Link to LeetCode](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 ## [Binary Search Tree](https://github.com/lenyagolikov/leetcode/tree/main/binary_search_tree)
