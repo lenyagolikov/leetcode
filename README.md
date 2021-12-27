@@ -30,6 +30,7 @@ https://leetcode.com/lenyagolikov/
 * Find Peak Element: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/binary_search/162.py) | [Link to LeetCode](https://leetcode.com/problems/find-peak-element/)
 * Find Smallest Letter Greater Than Target: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/binary_search/744.py) | [Link to LeetCode](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
 * Peak Index in a Mountain Array: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/binary_search/852.py) | [Link to LeetCode](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+* Search in Rotated Sorted Array: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/binary_search/33.py) | [Link to LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 ## [Binary Search Tree](https://github.com/lenyagolikov/leetcode/tree/main/binary_search_tree)
 * Lowest Common Ancestor of a Binary Search Tree: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/binary_search_tree/235.py) | [Link to LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 ## [Binary Tree](https://github.com/lenyagolikov/leetcode/tree/main/binary_tree)
