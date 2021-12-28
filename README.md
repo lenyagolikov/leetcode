@@ -46,6 +46,8 @@ https://leetcode.com/lenyagolikov/
 * Path Sum: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/binary_tree/112.py) | [Link to LeetCode](https://leetcode.com/problems/path-sum/)
 * Same Tree: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/binary_tree/100.py) | [Link to LeetCode](https://leetcode.com/problems/same-tree/)
 * Subtree of Another Tree: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/binary_tree/572.py) | [Link to LeetCode](https://leetcode.com/problems/subtree-of-another-tree/)
+## [Design](https://github.com/lenyagolikov/leetcode/tree/main/design)
+* Insert Delete GetRandom O(1): [Solution](https://github.com/lenyagolikov/leetcode/blob/main/design/380.py) | [Link to LeetCode](https://leetcode.com/problems/insert-delete-getrandom-o1/)
 ## [Dynamic Programming](https://github.com/lenyagolikov/leetcode/tree/main/dynamic_programming)
 * Best Time to Buy and Sell Stock: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/dynamic_programming/121.py) | [Link to LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 * Climbing Stairs: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/dynamic_programming/70.py) | [Link to LeetCode](https://leetcode.com/problems/climbing-stairs/)
