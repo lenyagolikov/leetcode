@@ -23,6 +23,7 @@ https://leetcode.com/lenyagolikov/
 * Two Sum: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/1.py) | [Link to LeetCode](https://leetcode.com/problems/two-sum/)
 * Valid Mountain Array: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/arrays/941.py) | [Link to LeetCode](https://leetcode.com/problems/valid-mountain-array/)
 ## [Backtracking](https://github.com/lenyagolikov/leetcode/tree/main/backtracking)
+* Generate Parentheses: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/backtracking/22.py) | [Link to LeetCode](https://leetcode.com/problems/generate-parentheses/)
 * Letter Case Permutation: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/backtracking/784.py) | [Link to LeetCode](https://leetcode.com/problems/letter-case-permutation/)
 ## [Binary Search](https://github.com/lenyagolikov/leetcode/tree/main/binary_search)
 * Binary Search: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/binary_search/704.py) | [Link to LeetCode](https://leetcode.com/problems/binary-search/)
