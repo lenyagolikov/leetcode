@@ -26,6 +26,7 @@ https://leetcode.com/lenyagolikov/
 ## [Backtracking](https://github.com/lenyagolikov/leetcode/tree/main/backtracking)
 * Generate Parentheses: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/backtracking/22.py) | [Link to LeetCode](https://leetcode.com/problems/generate-parentheses/)
 * Letter Case Permutation: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/backtracking/784.py) | [Link to LeetCode](https://leetcode.com/problems/letter-case-permutation/)
+* Permutations: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/backtracking/46.py) | [Link to LeetCode](https://leetcode.com/problems/permutations/)
 * Word Search: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/backtracking/79.py) | [Link to LeetCode](https://leetcode.com/problems/word-search/)
 ## [Binary Search](https://github.com/lenyagolikov/leetcode/tree/main/binary_search)
 * Binary Search: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/binary_search/704.py) | [Link to LeetCode](https://leetcode.com/problems/binary-search/)
