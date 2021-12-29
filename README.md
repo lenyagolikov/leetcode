@@ -53,6 +53,7 @@ https://leetcode.com/lenyagolikov/
 * Best Time to Buy and Sell Stock: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/dynamic_programming/121.py) | [Link to LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 * Climbing Stairs: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/dynamic_programming/70.py) | [Link to LeetCode](https://leetcode.com/problems/climbing-stairs/)
 * Counting Bits: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/dynamic_programming/338.py) | [Link to LeetCode](https://leetcode.com/problems/counting-bits/)
+* Jump Game: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/dynamic_programming/55.py) | [Link to LeetCode](https://leetcode.com/problems/jump-game/)
 * Longest Palindromic Substring: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/dynamic_programming/5.py) | [Link to LeetCode](https://leetcode.com/problems/longest-palindromic-substring/)
 * Maximum Subarray: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/dynamic_programming/53.py) | [Link to LeetCode](https://leetcode.com/problems/maximum-subarray/)
 ## [Hash Table](https://github.com/lenyagolikov/leetcode/tree/main/hash_table)
