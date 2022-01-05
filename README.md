@@ -55,6 +55,7 @@ https://leetcode.com/lenyagolikov/
 * Coin Change: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/dynamic_programming/322.py) | [Link to LeetCode](https://leetcode.com/problems/coin-change/)
 * Counting Bits: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/dynamic_programming/338.py) | [Link to LeetCode](https://leetcode.com/problems/counting-bits/)
 * Jump Game: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/dynamic_programming/55.py) | [Link to LeetCode](https://leetcode.com/problems/jump-game/)
+* Longest Increasing Subsequence: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/dynamic_programming/300.py) | [Link to LeetCode](https://leetcode.com/problems/longest-increasing-subsequence/)
 * Longest Palindromic Substring: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/dynamic_programming/5.py) | [Link to LeetCode](https://leetcode.com/problems/longest-palindromic-substring/)
 * Maximum Subarray: [Solution](https://github.com/lenyagolikov/leetcode/blob/main/dynamic_programming/53.py) | [Link to LeetCode](https://leetcode.com/problems/maximum-subarray/)
 ## [Hash Table](https://github.com/lenyagolikov/leetcode/tree/main/hash_table)
